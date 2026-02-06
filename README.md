@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo"  />
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313bhcocek6z4mr7pzxgt22ao6fq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=f066a2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313bhcocek6z4mr7pzxgt22ao6fq&redirect=true)
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sydneyruoj&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sydneyruoj&theme=radical&hide_border=true)<br/>
