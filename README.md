@@ -23,6 +23,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on improving myself <br>🌱 I’m currently learning programming, AI and Machine Learning
+
 <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sydneyruoj&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23ffffffFF&hide=prs%2Cissues">
 
 ## 🌐 Socials:
