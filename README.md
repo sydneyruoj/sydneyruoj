@@ -14,7 +14,7 @@
 </h1>
 
 ## 
-<h3 align="center">A Mechatronics Engineering Student</h3>
+<h3 align="center">Mechatronics Engineer</h3>
 </p>
 
 <div size='20px'> Hi! My name is Sydney Ruoj I. Ponsica. Thank You for taking the time to view my GitHub Profile :smile: 
